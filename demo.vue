@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import hButton from './index'
+import hButton from './index.vue'
 export default {
     name: "button-demo",
     data() {
